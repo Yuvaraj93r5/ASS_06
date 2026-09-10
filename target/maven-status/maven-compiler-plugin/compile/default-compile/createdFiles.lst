@@ -1,0 +1,10 @@
+com\emergency\exception\NoAmbulanceAvailableException.class
+com\emergency\model\Enums$AmbulanceType.class
+com\emergency\model\Enums$Priority.class
+com\emergency\model\Ambulance.class
+com\emergency\model\EmergencyRequest.class
+com\emergency\model\Location.class
+com\emergency\model\Enums$AmbulanceStatus.class
+com\emergency\model\Enums.class
+com\emergency\service\DispatchService.class
+com\emergency\exception\InvalidRequestException.class
