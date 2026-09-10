@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git branch: 'main', url: 'https://github.com/Abhinesh18G/ambulance-dispatch-system.git'
+                git branch: 'main', url: 'https://github.com/Yuvaraj93r5/ASS_06.git'
             }
         }
 
